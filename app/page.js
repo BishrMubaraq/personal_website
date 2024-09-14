@@ -12,7 +12,7 @@ export default function Home() {
         {/* Description Section */}
         <div className="w-full md:w-[540px] flex flex-col justify-around mt-6 md:mt-0 text-center md:text-left">
           <h1 className="text-[28px] sm:text-[32px] md:text-[44px] font-bold">
-            Hi<span className="inline-block animate-wave">👋</span>, I'm Bishr
+            Hi<span className="inline-block animate-wave">👋</span>, I&apos;m Bishr
             Mubaraq,
           </h1>
           <p className="text-[12px] sm:text-[14px] tracking-tight font-medium">
