@@ -7,7 +7,7 @@ export default function Home() {
     <div className="min-h-screen flex justify-center items-center">
       <div className="flex flex-col items-center md:flex-row text-black gap-3 px-4">
         {/* Image Section */}
-        <div className="flex justify-center items-center h-[150px] w-[150px] sm:h-[200px] sm:w-[200px] md:h-[250px] md:w-[250px] bg-[url('/assets/heroImg.jpg')] bg-cover bg-[200%] bg-center border-[4px] border-white bg-white rounded-full" />
+        <div className="flex justify-center items-center h-[150px] w-[150px] sm:h-[200px] sm:w-[200px] md:h-[250px] md:w-[250px] bg-[url('/assets/HeroImg.jpg')] bg-cover bg-[200%] bg-center border-[4px] border-white bg-white rounded-full" />
 
         {/* Description Section */}
         <div className="w-full md:w-[540px] flex flex-col justify-around mt-6 md:mt-0 text-center md:text-left">
